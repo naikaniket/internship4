@@ -1,0 +1,59 @@
+.box {
+    border-radius: 70px;
+    background: linear-gradient(360deg, #5abedc, white);
+    width: fit-content;
+    margin: 20px;
+}
+
+.content {
+    padding: 30px;
+}
+
+.name {
+    margin-top: 10px;
+    margin-top: 10 px;
+    font-family: system-ui;
+    color: teal;
+}
+
+.company {
+    display: flex;
+}
+
+.left {
+    margin-top: 10px;
+    font-size: 0px;
+}
+
+.compname {
+    margin: 10px;
+    font-family: system-ui;
+    color: #015c5c;
+    font-size: 18px;
+}
+
+.icon {
+    height: 35px;
+    border-radius: 50%;
+    position: relative;
+    vertical-align: top;
+    padding-bottom: 10px;
+}
+
+.iconpic {
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    object-fit: cover;
+}
+
+.img {
+    height: 91px;
+    width: 194px;
+    margin-left: 54px;
+    border-radius: 50px;
+}
+
+.abc {
+    display: flex;
+}
